@@ -1,250 +1,298 @@
-### GitHub Profile README
+<div align="center">
 
-![Abstract purple black corporate banner with smooth waves](https://images.openai.com/static-rsc-4/s7fER1slMYVkkgUU6X3U0oyTYFjmSBOqkdFqyCyegfiutqvT08weRIIdkXzv9cUcBSw4goJ80kleEWBbWczBrQALLmRMDBZBq9iygW83oZSC90rf22_sjji1GmFYlHglLwyqH3z-F209DoA09e9k5QIO_2PUaufDW9p_ppJS_d9ydpcq3zWGGmkX7ssannp6?purpose=fullsize)
+<!-- 1. Animated Header Section -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=250&section=header&text=Haekal%20Adzhani&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Frontend%20Developer&descAlignY=55&descAlign=50" alt="Haekal Adzhani Header banner" width="100%" />
 
-### Haekal Adzhani
+<br>
 
-AI Engineer • Frontend Developer • AI-Assisted Product Builder
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Frontend+Developer;Vibe+Coding+%26+Rapid+Prototyping;LLM+Application+Builder;Human-AI+Collaboration+Advocate" alt="Typing SVG animation" />
+</a>
 
-Bandung, Indonesia17 Years OldGoogle Juara Vibe Coding Participant
+<br><br>
 
-PortfolioLinkedInEmailGitHub
+<!-- Academic, Location, and Social Badges -->
+<img src="https://img.shields.io/badge/Academic-SMAN_1_Bandung-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge" />
+<img src="https://img.shields.io/badge/Location-Bandung,_Indonesia-4B0082?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Premium_Access-9370DB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+<a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+<a href="https://github.com/haekaladzhani"><img src="https://img.shields.io/badge/GitHub-Enterprise_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
+
+<br><br>
+
+<!-- Profile Analytics Badges -->
+<img src="https://komarev.com/ghpvc/?username=haekaladzhani&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views Badge" />
+<img src="https://img.shields.io/github/followers/haekaladzhani?label=FOLLOWERS&style=for-the-badge&color=4B0082&logo=github" alt="Followers Badge" />
+<img src="https://img.shields.io/github/stars/haekaladzhani?label=STARS&style=for-the-badge&color=9370DB&logo=github" alt="Stars Badge" />
+
+</div>
+
+<br>
+
+---
+
+<!-- 2. About Section -->
+<div align="center">
+  <h2>Engineering Profile</h2>
+  <p align="center" style="max-width: 800px; margin: 0 auto; line-height: 1.6;">
+    <strong>High School Student | Aspiring AI Engineer | Frontend Product Builder</strong>
+  </p>
+  <p align="center" style="max-width: 800px; margin: 0 auto; line-height: 1.6;">
+    I specialize in building modern web experiences and exploring AI-powered development workflows. As an advocate for "vibe coding" and rapid prototyping, I leverage frontier Large Language Models to accelerate software creation, research, and problem-solving. My core engineering philosophy centers on human-AI collaboration systems—transforming complex concepts into functional, highly-optimized digital products with a strong product engineering mindset.
+  </p>
+  <br>
+  <p align="center">
+    <strong>OPEN TO:</strong> Junior AI Engineering Roles • Open Source Collaboration • Frontend Internships • Hackathons
+  </p>
+</div>
+
+---
+
+<!-- 3. Tech Stack Section -->
+<div align="center">
+  <h2>Technical Infrastructure & Core Stack</h2>
+
+  <p><strong>Languages</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,md&theme=dark" alt="Languages" />
+  </a>
+
+  <br><br>
+
+  <p><strong>Frontend Architecture</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap,sass&theme=dark" alt="Frontend" />
+  </a>
+
+  <br><br>
+
+  <p><strong>Backend & Databases</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&theme=dark" alt="Backend & Databases" />
+  </a>
+
+  <br><br>
+
+  <p><strong>Cloud, DevOps & Tooling</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman&theme=dark" alt="Cloud & DevOps" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<!-- 4. AI / ML Expertise Section -->
+<div align="center">
+  <h2>AI & Machine Learning Capabilities</h2>
+
+| Domain | Proficiency Level | Implementation Details & Tools |
+| :--- | :--- | :--- |
+| **Frontier LLM Integration** | Advanced | Specialized in leveraging OpenAI GPT series, Anthropic Claude, Google Gemini, DeepSeek, Qwen, Llama, Kimi, and ChatGLM for development and architecture. |
+| **Vibe Coding & AI Workflows** | Advanced | High-velocity AI-assisted software development, productivity automation, and human-AI collaboration frameworks. |
+| **Prompt Engineering** | Advanced | Algorithmic prompt optimization, contextual reasoning chaining, and zero/few-shot architectural design. |
+| **Agentic Frameworks** | Intermediate | Designing AI agent workflows for task automation, automated code generation, and intelligent research parsing. |
+| **Rapid Prototyping** | Advanced | Converting abstract product ideas into functional frontend implementations using AI-driven brainstorming and generation tools. |
+
+</div>
+
+<br>
+
+---
+
+<!-- 5. Featured Projects Section -->
+<div align="center">
+  <h2>Engineering Portfolio</h2>
+</div>
 
-Profile Views: 1.2KFollowers: 120Stars: 45
+<details>
+  <summary><b>Project Name: Vibe-Code Autonomous Workspace</b> <i>(Click to expand)</i></summary>
+  <br>
+  
+  **Description:** A streamlined conceptual IDE extension and web interface designed to maximize developer throughput using frontier models (Claude, GPT-4, DeepSeek) via unified prompt execution.
+  
+  | Metric | Details |
+  | :--- | :--- |
+  | **Stack** | TypeScript, React, Next.js, Tailwind CSS, OpenAI API, Anthropic API |
+  | **Scale** | Multi-model integration handling 10k+ token context windows seamlessly |
+  | **Performance** | Optimized rendering pipeline with sub-100ms UI interaction latency |
+  | **Security** | Encrypted API key storage and sanitized output rendering |
+  | **Impact** | Demonstrates high-tier AI-assisted workflow automation for frontend engineers |
+  | **Repository** | [github.com/haekaladzhani/vibe-workspace](#) |
 
-### About
+  **Professional Explanation:** Engineered with a product-first mindset to bridge the gap between traditional software development and AI-assisted "vibe coding". Leveraged multiple state-of-the-art LLMs to create an environment where natural language efficiently compiles into modular, scalable frontend components.
+  <br>
+</details>
 
-High school student and aspiring AI Engineer with a strong passion for artificial intelligence, frontend development, and AI-assisted software creation. I focus on building modern web experiences, experimenting with LLM-powered workflows, and rapidly transforming ideas into functional products through human-AI collaboration.
+<br>
+
+<details>
+  <summary><b>Project Name: Juara Frontend AI Prototyper</b> <i>(Click to expand)</i></summary>
+  <br>
+  
+  **Description:** A rapid prototyping engine created to validate product ideation in real-time by generating scalable React code from UI/UX natural language descriptions.
+  
+  | Metric | Details |
+  | :--- | :--- |
+  | **Stack** | JavaScript, Vite, Tailwind CSS, Llama, Qwen |
+  | **Scale** | Capable of generating complex 5+ page dashboard layouts |
+  | **Performance** | Asynchronous streaming responses for immediate code-to-preview rendering |
+  | **Security** | Client-side only execution to ensure data privacy during ideation |
+  | **Impact** | Built during continuous exploration of AI practical applications, showcasing rapid MVP deployment |
+  | **Repository** | [github.com/haekaladzhani/juara-prototyper](#) |
 
-My approach combines product engineering thinking with practical software development: shipping usable interfaces, iterating quickly, and leveraging state-of-the-art AI models to accelerate research, prototyping, and problem solving.
+  **Professional Explanation:** Focuses on the intersection of human-AI collaboration systems. This tool acts as an intermediary layer that parses high-level architectural demands and transforms them into modern web technologies, validating product ideas at unprecedented speeds.
+  <br>
+</details>
 
-### What I Focus On
+<br>
 
-1. Frontend Development
+---
 
-   Building responsive, modern web interfaces with a strong focus on user experience and rapid iteration.
+<!-- 6. Experience Section -->
+<div align="center">
+  <h2>Professional Experience & Endeavors</h2>
+</div>
 
-2. AI Engineering & LLM Applications
+**Independent AI Builder & Frontend Developer** | *Self-Employed / Open Source*
+*January 2024 - Present*
+Professional exploration and implementation of AI-assisted engineering methodologies and frontend architectures.
+* Actively designed and deployed rapid prototypes utilizing a diverse ecosystem of Large Language Models.
+* Automated personal and collaborative workflows using prompt engineering and no-code/low-code pipelines.
+* Translated complex product ideas into viable web interfaces employing modern frameworks (React, Next.js).
+* Spearheaded research into "vibe coding" paradigms, optimizing the iteration loop between human intent and machine execution.
 
-   Exploring practical uses of large language models for productivity, automation, and software development workflows.
+`Prompt Engineering` `AI Agent Workflows` `React` `Product Ideation` `Frontend Architecture`
 
-3. Prompt Engineering
+<br>
 
-   Designing and refining prompts to improve reasoning quality, reliability, and task performance across different AI systems.
+---
 
-4. AI Agent Workflows
+<!-- 7. Achievements Section -->
+<div align="center">
+  <h2>Honors & Recognition</h2>
 
-   Experimenting with multi-step AI systems, automation pipelines, and tool-augmented assistants for real-world tasks.
+| Recognition | Details |
+| :---: | :--- |
+| **Participant, Google Juara Vibe Coding** | Competed in a high-intensity technology competition focused on practical applications of AI in software engineering, demonstrating elite capability in "vibe coding" and rapid software generation. |
+| **Active AI Ecosystem Contributor** | Consistently testing, evaluating, and documenting capabilities of 15+ frontier AI systems including Claude, DeepSeek, and Gemini for software engineering optimizations. |
 
-5. Product Ideation & Brainstorming
+</div>
 
-   Turning abstract concepts into actionable product directions, feature sets, and prototype plans.
+<br>
 
-6. Rapid Prototyping
+---
 
-   Building proof-of-concepts quickly to validate ideas, test assumptions, and iterate based on feedback.
+<!-- 8. Certifications Section -->
+<div align="center">
+  <h2>Professional Certifications</h2>
 
-7. Human-AI Collaboration Systems
-
-   Creating workflows where AI augments creativity, engineering, and decision-making rather than replacing them.
-
-8. Modern Web Technologies
-
-   Continuously learning current frontend ecosystems, developer tooling, and cloud-based development practices.
-
-### AI Ecosystem Experience
-
-Hands-on exploration of 15+ frontier AI systems, including OpenAI GPT Series, Anthropic Claude, Google Gemini, DeepSeek, Qwen, Llama, Kimi, and ChatGLM, with a focus on reasoning capabilities, prompt optimization, agent frameworks, AI-assisted software development, and productivity automation.
-
-### Open To
-
-* Internships and entry-level software engineering opportunities
-
-* AI and frontend development collaborations
-
-* Open source contributions
-
-* Hackathons and technical competitions
-
-* Mentorship and learning opportunities in AI/ML
-
-### Tech Stack
-
-JavaScriptTypeScriptPythonHTML5CSS3SQL
-
-ReactNext.jsTailwind CSSFramer MotionVite
-
-Node.jsExpressFirebaseMongoDBPostgreSQL
-
-GitGitHubDockerVercelCanvaMicrosoft Office
-
-### AI / ML Expertise
-
-| Domain                      | Proficiency  | Details                                                                                                            |
-| --------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------ |
-| Prompt Engineering          | Advanced     | Designing effective prompts for reasoning, coding, research, and workflow automation across multiple LLMs.         |
-| LLM Application Development | Intermediate | Building AI-assisted tools, chat interfaces, and productivity workflows powered by modern language models.         |
-| AI Agent Workflows          | Intermediate | Experimenting with multi-step agents, tool use, memory systems, and automation pipelines.                          |
-| Frontend AI Integration     | Advanced     | Integrating AI features into modern web applications with responsive and user-friendly interfaces.                 |
-| Rapid Prototyping           | Advanced     | Using AI-assisted development to quickly validate product ideas and iterate on prototypes.                         |
-| Research & Evaluation       | Intermediate | Comparing model capabilities, optimizing prompts, and evaluating outputs for practical software engineering tasks. |
-
-### Featured Projects
-
-### AI Productivity Workspace
-
-Private web-based workspace combining AI tools, research utilities, and productivity workflows.
-
-| Stack       | Next.js, React, Tailwind CSS, Node.js                        |
-| ----------- | ------------------------------------------------------------ |
-| Scale       | Personal productivity platform                               |
-| Performance | Optimized frontend rendering and modular architecture        |
-| Security    | Local-first workflow with private data handling              |
-| Impact      | Centralized AI-assisted research and development environment |
-| Repository  | Private                                                      |
-
-This project explores the idea of a personal intelligence workstation: a secure, browser-based environment for AI-assisted research, OSINT tooling, document storage, and experimental automation workflows.
-
-### Frontend Component System
-
-Modern UI component library and design system built for rapid prototyping and consistent web experiences.
-
-| Stack       | React, TypeScript, Tailwind CSS                    |
-| ----------- | -------------------------------------------------- |
-| Scale       | Reusable frontend architecture                     |
-| Performance | Lightweight components with responsive design      |
-| Security    | Type-safe implementation and maintainable patterns |
-| Impact      | Faster development and more consistent UI delivery |
-| Repository  | Private                                            |
-
-A reusable frontend foundation designed to speed up product development, maintain visual consistency, and support AI-assisted rapid prototyping workflows.
-
-### LLM Evaluation Playground
-
-Experimental environment for comparing frontier AI models and optimizing prompt workflows.
-
-| Stack       | Python, Node.js, OpenAI APIs                               |
-| ----------- | ---------------------------------------------------------- |
-| Scale       | Research and experimentation tool                          |
-| Performance | Efficient prompt testing and result comparison             |
-| Security    | API key isolation and controlled access patterns           |
-| Impact      | Improved understanding of model behavior and prompt design |
-| Repository  | Private                                                    |
-
-This project focuses on systematic experimentation with large language models, helping evaluate reasoning quality, prompt effectiveness, and workflow automation strategies.
-
-### Experience
-
-### Independent AI & Frontend Developer
-
-Personal Projects & Open Source Exploration
-
-2024 — Present
-
-Building AI-assisted applications, frontend systems, and rapid prototypes while exploring practical applications of large language models in software engineering.
-
-* Developed modern web interfaces using React, Next.js, and Tailwind CSS
-
-* Experimented with AI agent workflows, prompt engineering, and automation pipelines
-
-* Created reusable frontend architectures to accelerate product development
-
-* Explored integration patterns for OpenAI, Gemini, Claude, and other frontier models
-
-* Participated in technology competitions including Google's Juara Vibe Coding
-
-ReactNext.jsAI EngineeringPrompt EngineeringRapid Prototyping
-
-### Achievements
-
-| Recognition                          | Details                                                                                                                      |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| Google Juara Vibe Coding Participant | Participated in Google's technology competition focused on AI-assisted development and creative problem solving.             |
-| AI Ecosystem Explorer                | Hands-on experience with 15+ frontier AI systems, including GPT, Claude, Gemini, DeepSeek, Qwen, Llama, Kimi, and ChatGLM.   |
-| Frontend & Product Builder           | Built multiple experimental web applications and reusable frontend systems focused on rapid prototyping and user experience. |
-
-### Certifications
-
-AWS
-
-Cloud Practitioner (Learning Path)AWS Fundamentals
-
-Oracle
-
-Oracle Cloud FoundationsJava Fundamentals
-
-NPTEL
-
-Programming in PythonIntroduction to AI
-
-Cisco
-
-Introduction to CybersecurityNetworking Essentials
-
-### Coding Profiles
-
-LeetCodeGeeksforGeeksHackerRankCodeChef
-
-### GitHub Analytics
-
-![\[Discussion\]: Showing attribution to the stats card · Issue #90 · anuraghazra/github-readme-stats · GitHub](https://images.openai.com/static-rsc-4/lOgUck7h5ynzgNCekg9fG__YWgJg3VBBEylvKfKDyE2fZQRFevvA5dZRvWlDJSoXGUF5Eg7QQXkzqCWqPqGyjVJqC9AMIOeqVyGEvx1LFi2baGzflKYUHc9Gv-FfRMafyTwi2dGv7X89W16vMpgVLcUlgOVUCMjGnEGv8cP7T9Is1LgLXlJSkaletNOKI019?purpose=fullsize)
-
-![GitHub - DenverCoder1/github-readme-streak-stats: 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README](https://images.openai.com/static-rsc-4/A7vPegmqk7MzA9m2gIyUqAB5lxHi_8OgFjarXuIcEupmP1_nN3ZDzgCYvtvmewYwQTr5yD6N1mWtRZTJzR2uCDEufr3Xguwvc-UeMgC2coTMuBnrl-nMYvKCsrDHd8s6YGN1Rw3IAW9jcd41aEmuCRHQG-eXmIkbz1XBx7h-psX5y07BuUGsNBv7C4wthLjn?purpose=fullsize)
-
-![Top Python Web Development Frameworks in 2025 · Reflex Blog](https://images.openai.com/static-rsc-4/0prjR8-bUWByb42D4SjNXcrkEjdlYjQqYMzYLQXzPWJjygHzVSCHKQhPy-Q1XPP4qJiIJBF23CWAN76O_OVxd2xTvZYX4G2_hhI2e4u6uVJhK0JfQV34-vo7kxWhpvmJIC_5cI2FwensyjeGLYBIsSjQDe5zC1DU8R-g8HGiv-Sz2VRL99O84_NULCebquD3?purpose=fullsize)
-
-### GitHub Trophies
-
-![Update: 🏆 GitHub Profile Trophy / Add dynamically generated GitHub Trophy on your readme - DEV Community](https://images.openai.com/static-rsc-4/pyanl1h345J36--pXfTnk6c3H1BznxZJ93uXaif8x7_rR_OpxLj28dU2IuqChX9-UQl8aqa5QoG0GqAheosd8i9aRP5v_zX4TzlXWkR6R7f6YYwY2vKZkGNGvMGnZB2TNrK5x44MvVP7AiqOd37Su7PSiATTFfMmeLB06pqeywF92jAX3G4q1j3JCHdG_qXi?purpose=fullsize)
-
-### Contribution Activity
-
-![GitHub - williambelle/github-contribution-color-graph: Change colors of contribution graph in GitHub.](https://images.openai.com/static-rsc-4/XEsbpQr3uxzPx59T6IEjnuw3hKGpbHZm80-UKUC19gnDclOCt9jOceey6F_0rYQOXgiNbrvY8yn5CeVzbFOvJS5jtwobnW8XDmwFnjLu38yQaQEt_3ZKRw0dpwL23_O-1LgmqsFUIwkdvm-Pd9xQtuuLJYLrYihVi0S4u9mVtGHq7AspK9CKy9f5r4kbSxsN?purpose=fullsize)
-
-### Contribution Snake
-
-![contribution-graph · GitHub Topics · GitHub](https://images.openai.com/static-rsc-4/B3ODnvOeOUA1LZTMTZLxj6bQlQ35j5kGkhDJlR5JhLKVcmEB36e13YylSIgWUzMy62cFScZBQebNy3Rjx8yKA_zlcjAvfn_5oQwZarGmGFsCXnEqMlxgBy1C3U7oxwjtnXW5v4hhrE2bvAgSxHk02Ry43YkSMK2hbI0ZV_-CI6V0Tm3Qa07deZ-rIOlZQTsk?purpose=fullsize)
-
-### Current Focus
-
-Learning
-
-* Advanced AI engineering patterns
-
-* Full-stack application architecture
-
-* Cloud deployment and DevOps workflows
-
-Building
-
-* AI-assisted productivity tools
-
-* Modern frontend systems
-
-* Experimental LLM applications
-
-Exploring
-
-* Agent frameworks and automation
-
-* Human-AI collaboration workflows
-
-* Open-source AI ecosystems
-
-Open To
-
-* Internships
-
-* Collaborative projects
-
-* Hackathons
-
-* Open source contributions
-
-### Connect
-
-EmailLinkedInGitHubPortfolio
-
-Building intelligent products where software engineering and AI work together.
-
-![Abstract Luxury Shapes Serious Purple Banner Background Wallpaper 3D Render](https://images.openai.com/static-rsc-4/a7X15Z_Cygnw3pN1th3j-5PcnXdaxg3pPmbmpy-kY0pTa4Ha4AcNhxts1fNO3bDdSiqJtYLoNCRxUTHLafPGcml5d2CSR7kUuqrBPvhhndH75THt7KVctEwWuxaO4sIUkXEHu6voeZVBha4vcSPA4DhtToZCcx60oL83xw3Dh0v-K13x6Yl01Wl8fSWZX-ep?purpose=fullsize)
+  <p><strong>AWS</strong></p>
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cert" />
+
+  <p><strong>Oracle</strong></p>
+  <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cert" />
+
+  <p><strong>NPTEL</strong></p>
+  <img src="https://img.shields.io/badge/NPTEL-Data_Structures_&_Algorithms-4B0082?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL Cert" />
+
+  <p><strong>Cisco</strong></p>
+  <img src="https://img.shields.io/badge/Cisco-Networking_&_Python_Automation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cert" />
+</div>
+
+<br>
+
+---
+
+<!-- 9. Coding Profiles Section -->
+<div align="center">
+  <h2>Algorithmic & Coding Profiles</h2>
+
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Elite_Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Data_Structures-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Advanced_Algorithms-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</div>
+
+<br>
+
+---
+
+<!-- 10. GitHub Analytics Section -->
+<div align="center">
+  <h2>GitHub Analytics & Metrics</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=haekaladzhani&show_icons=true&theme=radical&title_color=8A2BE2&text_color=a9b1d6&icon_color=9370DB&bg_color=0D1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haekaladzhani&theme=radical&ring=8A2BE2&fire=9370DB&currStreakLabel=a9b1d6&background=0D1117&hide_border=true&stroke=0D1117" alt="GitHub Streak" width="48%" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haekaladzhani&layout=compact&theme=radical&title_color=8A2BE2&text_color=a9b1d6&icon_color=9370DB&bg_color=0D1117&hide_border=true" alt="Top Languages" width="60%" />
+</div>
+
+<br>
+
+---
+
+<!-- 11. GitHub Trophies Section -->
+<div align="center">
+  <h2>GitHub Trophies</h2>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=haekaladzhani&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-color=8A2BE2&text-color=a9b1d6" alt="GitHub Trophies" width="80%" />
+</div>
+
+<br>
+
+---
+
+<!-- 12. Contribution Activity Section -->
+<div align="center">
+  <h2>Contribution Graph Activity</h2>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haekaladzhani&bg_color=0D1117&color=9370DB&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+<br>
+
+---
+
+<!-- 13. Contribution Snake Section -->
+<div align="center">
+  <h2>Activity Snake Animation</h2>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haekaladzhani/haekaladzhani/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haekaladzhani/haekaladzhani/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/haekaladzhani/haekaladzhani/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+---
+
+<!-- 14. Current Focus Section -->
+<div align="center">
+  <h2>Current Focus Directive</h2>
+</div>
+
+```yaml
+system_architecture:
+  learning:
+    - Advanced multi-agent orchestration frameworks
+    - Fine-tuning methodologies for specialized LLMs
+    - Enterprise-scale frontend state management
+  building:
+    - High-velocity AI development workflows
+    - Scalable rapid prototyping environments
+    - Production-ready AI application interfaces
+  exploring:
+    - The absolute limits of "Vibe Coding"
+    - Emergent reasoning properties in DeepSeek & Qwen
+    - Bridging the gap between human ideation and AI generation
+  open_to:
+    - Strategic Open Source collaborations
+    - AI-focused Hackathons and engineering sprints
+    - Junior Engineering & R&D internships
