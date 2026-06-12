@@ -17,14 +17,14 @@
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Premium_Access-9370DB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
-<a href="https://github.com/haekaladzhani"><img src="https://img.shields.io/badge/GitHub-Enterprise_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
+<a href="https://github.com/gcmodev"><img src="https://img.shields.io/badge/GitHub-Enterprise_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
 
 <br><br>
 
 <!-- Profile Analytics Badges -->
-<img src="https://komarev.com/ghpvc/?username=haekaladzhani&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views Badge" />
-<img src="https://img.shields.io/github/followers/haekaladzhani?label=FOLLOWERS&style=for-the-badge&color=4B0082&logo=github" alt="Followers Badge" />
-<img src="https://img.shields.io/github/stars/haekaladzhani?label=STARS&style=for-the-badge&color=9370DB&logo=github" alt="Stars Badge" />
+<img src="https://komarev.com/ghpvc/?username=gcmodev&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views Badge" />
+<img src="https://img.shields.io/github/followers/gcmodev?label=FOLLOWERS&style=for-the-badge&color=4B0082&logo=github" alt="Followers Badge" />
+<img src="https://img.shields.io/github/stars/gcmodev?label=STARS&style=for-the-badge&color=9370DB&logo=github" alt="Stars Badge" />
 
 </div>
 
@@ -120,7 +120,7 @@
   | **Performance** | Optimized rendering pipeline with sub-100ms UI interaction latency |
   | **Security** | Encrypted API key storage and sanitized output rendering |
   | **Impact** | Demonstrates high-tier AI-assisted workflow automation for frontend engineers |
-  | **Repository** | [github.com/haekaladzhani/vibe-workspace](#) |
+  | **Repository** | [github.com/gcmodev/vibe-workspace](#) |
 
   **Professional Explanation:** Engineered with a product-first mindset to bridge the gap between traditional software development and AI-assisted "vibe coding". Leveraged multiple state-of-the-art LLMs to create an environment where natural language efficiently compiles into modular, scalable frontend components.
   <br>
@@ -141,7 +141,7 @@
   | **Performance** | Asynchronous streaming responses for immediate code-to-preview rendering |
   | **Security** | Client-side only execution to ensure data privacy during ideation |
   | **Impact** | Built during continuous exploration of AI practical applications, showcasing rapid MVP deployment |
-  | **Repository** | [github.com/haekaladzhani/juara-prototyper](#) |
+  | **Repository** | [github.com/gcmodev/juara-prototyper](#) |
 
   **Professional Explanation:** Focuses on the intersection of human-AI collaboration systems. This tool acts as an intermediary layer that parses high-level architectural demands and transforms them into modern web technologies, validating product ideas at unprecedented speeds.
   <br>
@@ -224,12 +224,12 @@ Professional exploration and implementation of AI-assisted engineering methodolo
 <div align="center">
   <h2>GitHub Analytics & Metrics</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=haekaladzhani&show_icons=true&theme=radical&title_color=8A2BE2&text_color=a9b1d6&icon_color=9370DB&bg_color=0D1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haekaladzhani&theme=radical&ring=8A2BE2&fire=9370DB&currStreakLabel=a9b1d6&background=0D1117&hide_border=true&stroke=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gcmodev&show_icons=true&theme=radical&title_color=8A2BE2&text_color=a9b1d6&icon_color=9370DB&bg_color=0D1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcmodev&theme=radical&ring=8A2BE2&fire=9370DB&currStreakLabel=a9b1d6&background=0D1117&hide_border=true&stroke=0D1117" alt="GitHub Streak" width="48%" />
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haekaladzhani&layout=compact&theme=radical&title_color=8A2BE2&text_color=a9b1d6&icon_color=9370DB&bg_color=0D1117&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcmodev&layout=compact&theme=radical&title_color=8A2BE2&text_color=a9b1d6&icon_color=9370DB&bg_color=0D1117&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 <br>
@@ -240,7 +240,7 @@ Professional exploration and implementation of AI-assisted engineering methodolo
 <div align="center">
   <h2>GitHub Trophies</h2>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=haekaladzhani&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-color=8A2BE2&text-color=a9b1d6" alt="GitHub Trophies" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gcmodev&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-color=8A2BE2&text-color=a9b1d6" alt="GitHub Trophies" width="80%" />
 </div>
 
 <br>
@@ -251,7 +251,7 @@ Professional exploration and implementation of AI-assisted engineering methodolo
 <div align="center">
   <h2>Contribution Graph Activity</h2>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haekaladzhani&bg_color=0D1117&color=9370DB&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gcmodev&bg_color=0D1117&color=9370DB&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <br>
@@ -263,9 +263,9 @@ Professional exploration and implementation of AI-assisted engineering methodolo
   <h2>Activity Snake Animation</h2>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haekaladzhani/haekaladzhani/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haekaladzhani/haekaladzhani/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/haekaladzhani/haekaladzhani/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gcmodev/gcmodev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gcmodev/gcmodev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gcmodev/gcmodev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
